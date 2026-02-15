@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "変わらないもの",
+  "base_artist": "奥 華子",
+  "createdAt": "2026-02-15T08:06:04.642752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/01_変わらないもの_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "柳麻美",
+      "has_synced": false,
+      "path": "select/02_変わらないもの_柳麻美.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "奥華子",
+      "has_synced": false,
+      "path": "select/03_変わらないもの_奥華子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "変わらないもの - Kawaranai Mono",
+      "artist": "奥 華子",
+      "has_synced": true,
+      "path": "select/04_変わらないもの_-_Kawaranai_Mono_奥_華子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "変わらないもの feat.こぴ",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/05_変わらないもの_feat.こぴ_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "変わらないもの - Studio Live",
+      "artist": "Mone Kamishiraishi",
+      "has_synced": true,
+      "path": "select/06_変わらないもの_-_Studio_Live_Mone_Kamishiraishi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/07_変わらないもの_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "Freie Kunst",
+      "has_synced": true,
+      "path": "select/08_変わらないもの_Freie_Kunst.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "Hanako Oku",
+      "has_synced": true,
+      "path": "select/09_変わらないもの_Hanako_Oku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "奥華子 feat. 96猫",
+      "has_synced": true,
+      "path": "select/10_変わらないもの_奥華子_feat._96猫.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "奥 華子",
+      "has_synced": true,
+      "path": "select/11_変わらないもの_奥_華子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/12_変わらないもの_96猫.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "変わらないもの (Studio Live)",
+      "artist": "上白石萌音",
+      "has_synced": true,
+      "path": "select/13_変わらないもの_(Studio_Live)_上白石萌音.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "変わらないもの",
+      "artist": "Oku, Hanako",
+      "has_synced": true,
+      "path": "select/14_変わらないもの_Oku,_Hanako.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "変わらないもの",
+      "artist": "奥 華子",
+      "has_synced": false,
+      "path": "select/pl_01_変わらないもの_奥_華子.txt"
+    }
+  ]
+}
